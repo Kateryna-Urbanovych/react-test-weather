@@ -1,4 +1,4 @@
-const BASE_URL_WEATHER = 'http://api.openweathermap.org/data/2.5';
+const BASE_URL_WEATHER = 'https://api.openweathermap.org/data/2.5';
 const KEY_WEATHER = 'b6b6aebead40b953adf28b351d9de3d0';
 // const KEY_WEATHER = process.env.REACT_APP_KEY_WEATHER;
 
