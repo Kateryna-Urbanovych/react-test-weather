@@ -1,0 +1,34 @@
+.wrap {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    padding: 10px 20px;
+    border-radius: 8px;
+    box-shadow: #3f51b5 0px 3px 10px;
+    text-align: center;
+}
+
+h3 {
+    margin: 0;
+}
+
+.description {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-style: italic;
+    font-weight: 500;
+}
+
+.list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: left;
+}
+
+span {
+    font-style: italic;
+    font-weight: 500;
+}

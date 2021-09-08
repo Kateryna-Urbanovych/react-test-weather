@@ -1,0 +1,9 @@
+.buttonLink {
+    text-decoration: none;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

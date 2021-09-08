@@ -1,0 +1,21 @@
+.buttonGetLocation {
+    margin-top: -55px;
+    margin-right: 10px;
+    height: 40px;
+    width: 300px;
+}
+
+.buttonLink {
+    text-decoration: none;
+}
+
+.buttonLocation {
+    margin-top: -55px;
+    height: 40px;
+    width: 130px;
+}
+
+.buttonLocation:hover,
+.buttonLocation:focus {
+    background-color: #d6eaf8;
+}
